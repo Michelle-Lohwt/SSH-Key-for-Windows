@@ -10,8 +10,6 @@ Summary Links:
 2. [Connecting to GitHub with SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 3. [Connecting to GitHub with SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
     <ul>
-      <li>
-        <a href="https://docs.github.com/en/github/authenticating-to-github/checking-for-existing-ssh-keysd">Checking for existing SSH keys</a>
-        <a href="https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent">Generating a new SSH key and adding it to the ssh-agent</a>
-      </li>
+    <li><a href="https://docs.github.com/en/github/authenticating-to-github/checking-for-existing-ssh-keysd">Checking for existing SSH keys</a></li>
+    <li><a href="https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent">Generating a new SSH key and adding it to the ssh-agent</a></li>
     </ul>
