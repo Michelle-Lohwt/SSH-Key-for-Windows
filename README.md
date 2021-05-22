@@ -8,4 +8,12 @@ Main Reference: [Git and GitHub for Beginners - Crash Course](https://www.youtub
 Summary Links:
 1. [Learn Git and Git Hub](https://www.jcchouinard.com/learn-git-and-github/)
 2. [Connecting to GitHub with SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
-3. [Connecting to GitHub with SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+3. 
+<details>
+  <summary>[Connecting to GitHub with SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)</summary>
+    <ul>
+      <li>
+        <a href="https://docs.github.com/en/github/authenticating-to-github/checking-for-existing-ssh-keysd">[Checking for existing SSH keys]</a>
+      </li>
+    </ul>  
+</details>
