@@ -1,9 +1,9 @@
 # SSH-Key-for-Windows
 This is regarding SSH-Key for Windows version, hope it helps :)
 
-Author: Michelle Loh
-
 Main Reference: [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&start_radio=1&t=829s)
+
+Author: Michelle Loh
 
 ## Main Reference Recap
 1. [14:30 cloning through VS Code](https://www.youtube.com/watch?v=RGOj5yH7evk&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=1&t=870s) - git clone *ssh from github*
