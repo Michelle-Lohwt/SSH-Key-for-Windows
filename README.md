@@ -15,13 +15,17 @@ Author: Michelle Loh
     1. Generating SSH key</br>
         <details>
         <summary>Create a new key <strong>OR</strong></summary>
-    
-          `ssh-keygen -t rsa -b 4096 -C "your_email@.com` and Enter the key name
+        a. Key in
+        
+          `ssh-keygen -t rsa -b 4096 -C "your_email@.com"` </br>
+        b. Enter the key name（Let say you enter the key as **thekey**)
         </details>
         <details>
         <summary>Already have a key</summary>
+        a. Key in （Let say you enter the key as <strong>thekey</strong>)
     
-            `ssh-keygen -t rsa -b 4096 -C "your_email@.com"" and Choose whether to overwrite the key
+           ssh-keygen -t rsa -b 4096 -C "your_email@.com"
+        b. Choose whether to overwrite the key
         </details>
         <strong>THEN</strong>
         <details>
@@ -31,8 +35,32 @@ Author: Michelle Loh
             Enter passphrase (empty for no passphrase): [Type a passphrase]
             Enter same passphrase again: [Type passphrase again]
         ```
+        (if no passphrase just leave it empty by clicking on the "Enter" key)
         </details>
      2. Check whether the SSH key is generated
+        <details>
+        <summary>ls <strong>OR</strong></summary>
+        a. Key in 
+    
+            ls
+        b. Notice that the last 2 rows are the generated key
+        ```
+        thekey -- private (only you can access)
+        thekey.pub -- public (open to the public to access)
+        ```
+        </details>
+        <details>
+        <summary>ls -al ~/the-key-name.pub</summary>
+        a. Key in
+    
+            ls -al ~/the-key-name.pub
+           (change <i>the-key-name</i> to the name you generated)</br>
+           In our case will be:
+           ```
+           ls -al ~/thekey.pub
+           ```
+        </details>
+     3. Copy the public key
 
 
 # References
